@@ -1,3 +1,3 @@
-module github.com/MrDuckBr/Open-Security-Monitor
+module github.com/MrDuckBr/Security-Monitor
 
 go 1.18
